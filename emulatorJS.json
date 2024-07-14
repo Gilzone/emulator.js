@@ -13,7 +13,7 @@
   "platform": "linux",
   "restart_policy": "unless-stopped",
   "ports": [
-    "3000:3000/tcp",
+    "3001:3001/tcp",
     "80:80/tcp",
     "4001:4001/tcp"
   ],
